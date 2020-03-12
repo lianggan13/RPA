@@ -1,0 +1,7 @@
+D:\06 Project\SWS\Program\SWS\bin\Release\SWS.exe.config
+D:\06 Project\SWS\Program\SWS\bin\Release\SWS.exe
+D:\06 Project\SWS\Program\SWS\bin\Release\SWS.pdb
+D:\06 Project\SWS\Program\SWS\obj\Release\SWS.csproj.CoreCompileInputs.cache
+D:\06 Project\SWS\Program\SWS\obj\Release\SWS.exe
+D:\06 Project\SWS\Program\SWS\obj\Release\SWS.pdb
+D:\06 Project\SWS\Program\SWS\obj\Release\SWS.csprojAssemblyReference.cache

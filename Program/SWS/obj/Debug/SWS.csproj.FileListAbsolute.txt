@@ -1,0 +1,35 @@
+D:\06 Project\SWS\SWS\bin\Debug\SWS.exe.config
+D:\06 Project\SWS\SWS\bin\Debug\SWS.exe
+D:\06 Project\SWS\SWS\bin\Debug\SWS.pdb
+D:\06 Project\SWS\SWS\obj\Debug\SWS.csproj.CoreCompileInputs.cache
+D:\06 Project\SWS\SWS\obj\Debug\SWS.exe
+D:\06 Project\SWS\SWS\obj\Debug\SWS.pdb
+D:\06 Project\SWS\SWS\obj\Debug\SWS.csprojAssemblyReference.cache
+D:\06 Project\SWS\Program\SWS\bin\Debug\SWS.exe.config
+D:\06 Project\SWS\Program\SWS\bin\Debug\SWS.exe
+D:\06 Project\SWS\Program\SWS\bin\Debug\SWS.pdb
+D:\06 Project\SWS\Program\SWS\obj\Debug\SWS.csproj.CoreCompileInputs.cache
+D:\06 Project\SWS\Program\SWS\obj\Debug\SWS.exe
+D:\06 Project\SWS\Program\SWS\obj\Debug\SWS.pdb
+D:\06 Project\SWS\Program\SWS\obj\Debug\SWS.csprojAssemblyReference.cache
+D:\Lianggan13\xx.项目交接\Material List  Check\Program\SWS\bin\Debug\SWS.exe.config
+D:\Lianggan13\xx.项目交接\Material List  Check\Program\SWS\bin\Debug\SWS.exe
+D:\Lianggan13\xx.项目交接\Material List  Check\Program\SWS\bin\Debug\SWS.pdb
+D:\Lianggan13\xx.项目交接\Material List  Check\Program\SWS\obj\Debug\SWS.csprojAssemblyReference.cache
+D:\Lianggan13\xx.项目交接\Material List  Check\Program\SWS\obj\Debug\SWS.csproj.CoreCompileInputs.cache
+D:\Lianggan13\xx.项目交接\Material List  Check\Program\SWS\obj\Debug\SWS.exe
+D:\Lianggan13\xx.项目交接\Material List  Check\Program\SWS\obj\Debug\SWS.pdb
+D:\Lianggan13\project\SSVSSGE_Product_CN\Program\SWS\bin\Debug\SWS.exe.config
+D:\Lianggan13\project\SSVSSGE_Product_CN\Program\SWS\bin\Debug\SWS.exe
+D:\Lianggan13\project\SSVSSGE_Product_CN\Program\SWS\bin\Debug\SWS.pdb
+D:\Lianggan13\project\SSVSSGE_Product_CN\Program\SWS\obj\Debug\SWS.csprojAssemblyReference.cache
+D:\Lianggan13\project\SSVSSGE_Product_CN\Program\SWS\obj\Debug\SWS.csproj.CoreCompileInputs.cache
+D:\Lianggan13\project\SSVSSGE_Product_CN\Program\SWS\obj\Debug\SWS.exe
+D:\Lianggan13\project\SSVSSGE_Product_CN\Program\SWS\obj\Debug\SWS.pdb
+C:\Users\5109v40308\Desktop\Program\SWS\bin\Debug\SWS.exe.config
+C:\Users\5109v40308\Desktop\Program\SWS\bin\Debug\SWS.exe
+C:\Users\5109v40308\Desktop\Program\SWS\bin\Debug\SWS.pdb
+C:\Users\5109v40308\Desktop\Program\SWS\obj\Debug\SWS.csprojAssemblyReference.cache
+C:\Users\5109v40308\Desktop\Program\SWS\obj\Debug\SWS.csproj.CoreCompileInputs.cache
+C:\Users\5109v40308\Desktop\Program\SWS\obj\Debug\SWS.exe
+C:\Users\5109v40308\Desktop\Program\SWS\obj\Debug\SWS.pdb

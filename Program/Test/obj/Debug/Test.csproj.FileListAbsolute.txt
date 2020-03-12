@@ -1,0 +1,11 @@
+D:\Lianggan13\project\SSGE调达部_部品发注的自动管理\WorkFolder\Program\Test\bin\Debug\Test.dll
+D:\Lianggan13\project\SSGE调达部_部品发注的自动管理\WorkFolder\Program\Test\bin\Debug\Test.pdb
+D:\Lianggan13\project\SSGE调达部_部品发注的自动管理\WorkFolder\Program\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Lianggan13\project\SSGE调达部_部品发注的自动管理\WorkFolder\Program\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Lianggan13\project\SSGE调达部_部品发注的自动管理\WorkFolder\Program\Test\obj\Debug\Test.dll
+D:\Lianggan13\project\SSGE调达部_部品发注的自动管理\WorkFolder\Program\Test\obj\Debug\Test.pdb
+C:\Users\mac\Desktop\RPA\Program\Test\bin\Debug\Test.dll
+C:\Users\mac\Desktop\RPA\Program\Test\bin\Debug\Test.pdb
+C:\Users\mac\Desktop\RPA\Program\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\mac\Desktop\RPA\Program\Test\obj\Debug\Test.dll
+C:\Users\mac\Desktop\RPA\Program\Test\obj\Debug\Test.pdb
